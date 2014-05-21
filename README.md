@@ -9,4 +9,3 @@ Examples to Python languages elements
 * Naming
 * Syntax & keywords
 * Instruction 
-
